@@ -1,4 +1,5 @@
 // Testing addition
+// Added more comments to test git
 
 describe('Addition', () => {
     it('Add two numbers correctly',()=>{
