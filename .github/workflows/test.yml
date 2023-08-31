@@ -32,9 +32,9 @@ jobs:
           username: kaybernard449@gmail.com
           password: zkqjdbswmhtawdje
           subject: Jest Test Report
-          to: bezyl.otieno@thejitu.com
+          to: gacheru.kabiru@thejitu.com
           from: kaybernard449@gmail.com
-          message: |
+          body: |
             The Jest test report is attached.
           attachments: |
-            ./path/to/your/test-report.html
+            test-report.html
